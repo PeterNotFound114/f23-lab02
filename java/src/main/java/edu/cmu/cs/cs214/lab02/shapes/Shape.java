@@ -4,7 +4,7 @@ public interface Shape {
 
     public double getWidth();
 
-    public double getLength();
+    public double getHeight();
 
     public double getArea();
 
